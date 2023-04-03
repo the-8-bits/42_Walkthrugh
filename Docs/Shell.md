@@ -19,8 +19,8 @@
 
 ## Atalhos
 `Ctrl + w` : Apaga última palavra digitada. </br>
-`Ctrl + u`: Apaga última linha digitada.
-`Ctrl + l` : "Limpa" o histórico de mensagens/comandos. </br>
+`Ctrl + u`: Apaga última linha digitada. </br>
+`Ctrl + l` : "Limpa" o histórico de mensagens/comandos.
  
 ## COMANDOS PARA MANIPULAÇÃO DE ARQUIVOS E TEXTOS E COMANDOS DE REDIRECIONAMENTO
 `~$ cat [arquivo]`: exibe as informações internas de um arquivo em ordem padrão. </br>
