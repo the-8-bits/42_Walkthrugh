@@ -24,13 +24,24 @@ Isso mesmo! Certifique-se da sua toalha pessoal, umas boas iscas para ratos e va
 A ideia inicial era de se fazer um Diário conpartilhando nossas experiências que (achamos) que teríamos durante todo o processo
 ```markdown
   Dia #1
-  Sem dúvidas, um dos dias mais loucos da minha vida! assim que chegamos lá, recebemos as instruções iniciais (o de sempre, poucas), e seguimos com a primeira lista Shell00 com dez exercícios com explicações básicas, mas nada como perguntar ao famoso pai Google, Youtube e StackOverflow.
-  No início achamos que o limite de tempo de entrega das listas era de 24 horas, mas não amigos... O lema *DON'T PANIC!* não é mera coincidência. Pra entender do que eu tô falando, só mesmo **mergulhando na piscine**
+  Sem dúvidas, um dos dias mais loucos da minha vida! assim que chegamos lá, recebemos as instruções
+  iniciais (o de sempre, poucas), e seguimos com a primeira lista Shell00 com dez exercícios com
+  explicações básicas, mas nada como perguntar ao famoso pai Google, Youtube e StackOverflow.
+  No início achamos que o limite de tempo de entrega das listas era de 24 horas, mas não amigos...
+  O lema *DON'T PANIC!* não é mera coincidência. Pra entender do que eu tô falando, só mesmo
+  **mergulhando na piscine**
 
   Dia #2
   Hoje o dia amanheceu chuvoso, mas bastante propício a um delicioso **mergulho**.
-    Nada como um dia após o outro, e uma noite de sono no meio! Chegamos mais tranquilos ao cluster, e com isso, mais dispostos e propensos a trocas mais eficientes. É de se esperar que no primeiro dia as coisas não fluam lá tão bem, tem todo um background ne? nervosismo, ansiedade e afins. É *completamente* normal.
-    Trocando em miúdos: pessolmente, praticamente tudo o que foi feito ontem, só foi fixado na mente (e no coraçãozinho) hoje. O que ontem parecia perdido, hoje fluiu desde o momento em que sentamos ao pc. O maior ensinamento de hoje foi, sem dúvidas, **a gente aprende enquanto ensina, e consegue ensinar enquanto está aprendendo**. Na dúvida, faz que nem a Dory e *continue a nadar, continue a nadar, nadar, para achar a solução, nadar!*
+  Nada como um dia após o outro, e uma noite de sono no meio! Chegamos mais tranquilos ao cluster,
+  e com isso, mais dispostos e propensos a trocas mais eficientes. É de se esperar que no primeiro
+  dia as coisas não fluam lá tão bem, tem todo um background ne? nervosismo, ansiedade e afins. É
+  *completamente* normal.
+  Trocando em miúdos: pessolmente, praticamente tudo o que foi feito ontem, só foi fixado na mente
+  (e no coraçãozinho) hoje. O que ontem parecia perdido, hoje fluiu desde o momento em que sentamos
+  ao pc. O maior ensinamento de hoje foi, sem dúvidas, **a gente aprende enquanto ensina, e consegue**
+  **ensinar enquanto está aprendendo**. Na dúvida, faz que nem a Dory e *continue a nadar, continue*
+  *a nadar, nadar, para achar a solução, nadar!*
 ```
 E foi isso, não tivemos cabeça pra continuar e já daí foi só ladeira a baixo. Mas a "dinâmica" da escola é baseada (até onde conseguimos entender, pode ser que estejamos completamente errados) basicamente na entrega de [Listas de Exercícios](#listas), realização de Avaliações, Exames Obrigatórios e Opicionais e a participação nos eventos.
 
@@ -46,6 +57,8 @@ Ao final de duas avaliações (positivas ou não e, depois de dado o feedback à
 ### Moulinette
 Para tentar filtrar os resultados e testar as funções prototipadas nos exercícios segue logo abaixo a Fake, uma lista de funções `main()`, em cada pasta de exercício. </br>
 Após a correção, é enviada para seu email o trace, do que foi encontrado como erro e o resultado (que também é apresentado no intra).
+
+![moulinette_grade](https://drive.google.com/uc?export=view&id=1XPkj1OL-85rE9fg5vP8vxz3i5cAcet8B)
 
 ### Norminette
 Basicamente uma avaliação da Norma, sua Lista pode estar entregando o resultado esperado, se não estiver de acordo com ela, a Moulinette vai identificar `Norme Error`, e seu trabalho irá pelo ralo.
@@ -82,9 +95,9 @@ void  function_name(int arg1, int arg2, char arg3, char arg4)
   //code
 }
 ```
-- Definição de no máx 5 variáveis locais (ver [escopo de variáveis]()), em linhas separadas e sempre seguida de uma linha vazia.
+- Definição de no máx 5 variáveis locais (ver [escopo de variáveis](http://linguagemc.com.br/funcoes-e-escopo-de-variaveis/)), em linhas separadas e sempre seguida de uma linha vazia.
 
-*IMPORTANTE* Declarar variáveis globais não é permitido, pode-se contornar essa situação com o uso de [structs]().
+*IMPORTANTE* Declarar variáveis globais não é permitido, pode-se contornar essa situação com o uso de [structs](https://www.w3schools.com/c/c_structs.php).
 ```c
 void  function_name(void)
 {
@@ -147,23 +160,32 @@ Avisos
 
 |__Listas__|__Percentual__|__X__|
 |-|-|-|
-|[Sh00](./Lists/sh00/)|-|-|
-|[Sh01](./Lists/sh01/)|-|-|
+|[Sh00](./Lists/sh00/)|100|✅|
+|[Sh01](./Lists/sh01/)|100|✅|
 ||||
-|[C00](./Lists/c00/)|-|-|
-|[C01](./Lists/c01/)|-|-|
-|[C02](./Lists/c02/)|-|-|
-|[C03](./Lists/c03/)|-|-|
-|[C04](./Lists/c04/)|-|-|
-|[C05](./Lists/c05/)|-|-|
-|[C06](./Lists/c06/)|-|-|
-|[C07](./Lists/c07/)|-|-|
+|[C00](./Lists/c00/)|100|✅|
+|[C01](./Lists/c01/)|100|✅|
+|[C02](./Lists/c02/)|75 |✅|
+|[C03](./Lists/c03/)|100|✅|
+|[C04](./Lists/c04/)|70 |✅|
+|[C05](./Lists/c05/)|80 |✅|
+|[C06](./Lists/c06/)|100|✅|
+|[C07](./Lists/c07/)|100|✅|
 |[C08](./Lists/c08/)|Not Rated|:x:|
 |[C09](./Lists/c09/)|Not Rated|:x:|
 |[C10](./Lists/c10/)|Not Rated|:x:|
 |[C11](./Lists/c11/)|Not Rated|:x:|
 |[C12](./Lists/c12/)|Not Rated|:x:|
 |[C13](./Lists/c13/)|Not Rated|:x:|
+
+### Stdheader
+A partir das listas em C, é necessário para validação dos exercícios de cada aluno o cabeçalho no topo de cada exercício, que pode ser inserido através do `Vim` de duas formas:
+- clicando em `F1` ou;
+- digitando o comando `:Stdheader`na linha de comandos do editor.
+
+Deve surgir a seguinte imagem:
+
+![Stdheader](https://drive.google.com/uc?export=view&id=1x7Gtpo48tOLuZXRV68RlBQ3O73BekivU)
 
 ## iv-Exames
 Lembre-se de se inscrever na lista de projetos e no evento da prova, se não, não será possível entrar na prova.
@@ -191,7 +213,7 @@ A inscrição (dos Rushs) é feita na sexta e o projeto so pode ser feito no fim
 
 Para o BSQ, os times são de duas pessoas e podem ser escolhidos pelos alunos, o prazo é na semana final e deve ser defendido da quarta (23:40) à quinta-feira.
 
-|__Exames__|__Percentual__|__#__|
+|__Exames__|__#__|__#__|
 |-|-|-|
 |[Exam00]()|-|-|
 |[Exam01]()|-|-|
@@ -200,13 +222,13 @@ Para o BSQ, os times são de duas pessoas e podem ser escolhidos pelos alunos, o
 |[Rush00]()|-|-|
 |[Rush01]()|-|-|
 |[Rush02]()|-|-|
-|[BSQ]()|Erro de Norma|:x:|
+|[BSQ](./Lists/BSQ/)|Erro de Norma|:x:|
 
 
 #### BONUS
 Para você, que chegou até aqui tenho um presente: a realidade. </br>
 Passamos recentemente por esse processo inteiro, nos dedicamos corpo e principalmente alma, vimos e tivemos muitas crises de ansiedade, sobrevivemos.
-Nos dedicamos ao processo que ahcávamos "verdadeiro", de aprender, de ajudar.
+Nos dedicamos ao processo que achávamos "verdadeiro", de aprender, de ajudar.
 
 Ficamos até altas horas da madrugada, alguns de nós tinha de trabalhar logo cedo no outro dia, ou trabalhava durante a noite e ia durante o dia.
 
@@ -214,3 +236,7 @@ Ficamos até altas horas da madrugada, alguns de nós tinha de trabalhar logo ce
 
 Vimos gente que copiava as listas e/ou simplesmente usava motores de AI para gerar o código e aprovar o máximo possível, para chegar na prova e simplesmente decorar as questões que poderiam ser cobradas e "se dar bem". Então meu amigo *copie o máximo que puder e estude depois*, deixe para submeter os arquivos durante a madrugada, onde pode-se controlar as avaliações e quem irá avaliar. </br>
 Decore a prova e passe nelas, nem que seja com o valor mínimo. Ganhe tempo e vá estudando com calma.
+
+---
+
+**Se encontrar algum erro, ou se tiver alguma sugestão não deixa de mandar mensagem pra gente! Abre uma [Issue](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue) !**
